@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  GManSChallenge
+
+  Created by Bhuvanendra Pratap Maurya on 01/09/22.
+  
+*/
+
+//Global
+"global.noInternet" = "Network not available";
+"global.error.networkConnectionLost" = "The network connection was lost.";
+"global.cancel" = "Cancel";
+"global.done" = "Done";
+
+//PictureList
+"pictureList.navTitle" = "NASA's Astronomy Pictures";
+

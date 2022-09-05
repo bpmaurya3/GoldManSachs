@@ -1,0 +1,6 @@
+framework module Pods_GManSChallengeTests {
+  umbrella header "Pods-GManSChallengeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
