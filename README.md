@@ -52,7 +52,8 @@ To keep the code files readable and uncluttered, below is the folder structure u
 
 ## Xcode build
 
-1. Unzip CBA.zip
-2. Open `CBA.xcodeproj` in Xcode
-3. Select the `CBA` scheme
+1. Download GManSChallenge
+2. Remove Pods & podfile.lock, reinstall the pod
+2. Open `GManSChallenge.xcworkspace` in Xcode
+3. Select the `GManSChallenge` scheme
 4. Build
